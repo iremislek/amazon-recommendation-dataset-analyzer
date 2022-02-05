@@ -19,4 +19,6 @@ Calculates average review point per item, then plots a boxplot for it.
 
 ### References:
 
-1.J. McAuley and J. Leskovec. Hidden factors and hidden topics: understanding rating dimensions with review text. RecSys, 2013. 2.http://jmcauley.ucsd.edu/data/amazon/
+1.J. McAuley and J. Leskovec. Hidden factors and hidden topics: understanding rating dimensions with review text. RecSys, 2013. 
+
+2.http://jmcauley.ucsd.edu/data/amazon/
