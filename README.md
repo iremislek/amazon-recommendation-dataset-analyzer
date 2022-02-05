@@ -1,4 +1,4 @@
-# Amazon Recommendation Rview Dataset Analyzer
+# Amazon Recommendation Review Dataset Analyzer
 A notebook to analyze Amazon Recommendation Review Dataset.
 
 
