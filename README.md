@@ -16,6 +16,12 @@ Calculates mean and median review count per item, then plots a boxplot for revie
 
 Calculates average review point per item, then plots a boxplot for it.
 
+Calculates word count per review, then plots a boxplot for it.
+
+Calculates total word count in all reviews of the item, then plots a boxplot for it.
+
+Calculates total word count in all reviews of the user, then plots a boxplot for it.
+
 
 ### References:
 
