@@ -23,6 +23,11 @@ Calculates total word count in all reviews of the item, then plots a boxplot for
 Calculates total word count in all reviews of the user, then plots a boxplot for it.
 
 
+
+
+
+
+
 ### References:
 
 1.J. McAuley and J. Leskovec. Hidden factors and hidden topics: understanding rating dimensions with review text. RecSys, 2013. 
